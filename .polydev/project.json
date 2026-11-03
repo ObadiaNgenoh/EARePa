@@ -1,0 +1,11 @@
+{
+  "templateId": "empty",
+  "devServerCommand": "npm install",
+  "scripts": {
+    "dev": "npm install"
+  },
+  "git": {
+    "repo": "ObadiaNgenoh/skolarpulse",
+    "branch": "main"
+  }
+}
